@@ -1,0 +1,2 @@
+class Graffiti < ApplicationRecord
+end
